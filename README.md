@@ -1,5 +1,7 @@
 # WordEmbeddings
 
+[Spanish version](README_es.md)
+
 ![alt text](img/img.webp)
 
 This repository is a hands-on exploration into the fundamentals of word embeddings. Instead of relying solely on high-level libraries (such as word2vec), I implemented key processes manually in a Jupyter Notebook. The goal is to gain a deeper, intuitive understanding of how semantic relationships are encoded in vector spaces.
@@ -45,6 +47,11 @@ By implementing these steps from scratch, the notebook provides insights into:
 ## Motivation
 
 While tools like word2vec provide automated methods for learning word embeddings, this project intentionally implements the core techniques manually. This approach helps to demystify the underlying concepts—such as vector arithmetic for analogies and the importance of co-occurrence statistics—thus offering a solid foundation for more advanced studies in NLP.
+
+## Acknowledgments
+
+- Special thanks to the [Pepe Cantoral PhD](https://www.youtube.com/@PepeCantoralPhD) YouTube channel for providing helpful videos and insights that guided the creation of this project.
+
 
 ## Questions & Ideas
 
